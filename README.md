@@ -1,0 +1,3 @@
+# sudokuSolver
+
+Simple console sodukosolver
